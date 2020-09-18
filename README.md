@@ -1,4 +1,4 @@
 # Flutter by NTN
 
-Follow me in Humger.com\n
+Follow me in Humger.com.
 Youtube Schanner: Flutter_Vn
